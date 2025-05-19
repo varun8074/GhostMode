@@ -16,3 +16,4 @@ pytweening==1.2.0
 pywin32==308
 pywinauto==0.6.9
 six==1.17.0
+pynput==1.8.1
